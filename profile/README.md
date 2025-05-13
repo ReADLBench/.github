@@ -4,7 +4,7 @@
 
 This initiative collects tools, data and methods for the analysis and design of systems running DL applications with respect to hardware reliability related aspects.
 
-At present, a Benchmark Suite [ReADLBench](dnn_benchmark) is available.
+At present, a Benchmark Suite [ReADLBench](https://github.com/ReADLBench/dnn-benchmark) is available.
 
 
 ## Initiators and contributors:

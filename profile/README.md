@@ -12,7 +12,12 @@ At present, a Benchmark Suite [ReADLBench](../../dnn_benchmark) is available.
 <img src="./lyon.jpeg" alt="drawing" style="height: 200px;"/>
 
 
-<img src="./polimi.svg" alt="drawing" style="height: 200px;"/>
+<img src="./polimi.svg" alt="drawing" style="height: 185px;"/>
 
 
-<img src="./polito.svg" alt="drawing" style="height: 200px;"/>
+<img src="./polito.svg" alt="drawing" style="height: 190px;"/>
+
+
+## Contacts
+
+Email: readlbench AT gmail.com

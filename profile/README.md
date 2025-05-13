@@ -9,14 +9,9 @@ At present, a Benchmark Suite [ReADLBench](dnn_benchmark) is available.
 
 ## Initiators and contributors:
 
-<img src="./lyon.jpeg" alt="drawing" style="height: 200px;"/>
+<img src="./lyon.jpeg" alt="drawing" style="height: 100px;"/> <img src="./polimi.svg" alt="drawing" style="height: 85px;"/> <img src="./polito.svg" alt="drawing" style="height: 90px;"/>
 
-
-<img src="./polimi.svg" alt="drawing" style="height: 175px;"/>
-
-
-<img src="./polito.svg" alt="drawing" style="height: 190px;"/>
-
+---
 
 + Cristiana Bolchini @ Politecnico di Milano
 + Alberto Bosio @ École Centrale de Lyon

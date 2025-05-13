@@ -9,7 +9,7 @@ At present, a Benchmark Suite [ReADLBench](dnn_benchmark) is available.
 
 ## Initiators and contributors:
 
-<img src="./lyon.jpeg" alt="drawing" style="height: 100px;"/>  <img src="./polimi.svg" alt="drawing" style="height: 90px;"/>   <img src="./polito.svg" alt="drawing" style="height: 90px;"/>
+<img src="./lyon.jpeg" alt="drawing" style="height: 100px;"/>  <img src="./polimi.svg" alt="drawing" style="height: 100px;"/>   <img src="./polito.svg" alt="drawing" style="height: 90px;"/>
 
 ---
 
